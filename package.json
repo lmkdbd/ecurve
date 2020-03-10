@@ -1,5 +1,5 @@
 {
-  "name": "ecurve",
+  "name": "@lmkdbd/ecurve",
   "version": "1.0.5",
   "description": "Elliptic curve cryptography",
   "keywords": [
@@ -8,7 +8,8 @@
     "bitcoin",
     "litecoin",
     "elliptic",
-    "curve"
+    "curve",
+    "sm2"
   ],
   "license": "MIT",
   "devDependencies": {
@@ -16,7 +17,7 @@
     "standard": "^7.1.2"
   },
   "repository": {
-    "url": "https://github.com/cryptocoinjs/ecurve",
+    "url": "https://github.com/lmkdbd/ecurve",
     "type": "git"
   },
   "main": "./lib/index.js",
